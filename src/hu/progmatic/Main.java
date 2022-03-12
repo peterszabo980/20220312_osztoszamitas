@@ -21,7 +21,7 @@ public class Main {
         }
 
         System.out.println();
-        System.out.println("A számnak összesen " + db + " db osztója van.");
+        System.out.println("A számnak összesen " + db + " db osztója van a megadott számnak.");
         //System.out.println("oszto " + oszto);
     }
 }
