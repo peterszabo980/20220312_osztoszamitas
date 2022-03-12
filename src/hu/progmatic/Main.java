@@ -24,5 +24,6 @@ public class Main {
         System.out.println(" " + db + " db osztója van a megadott számnak.");
         //System.out.println("oszto " + oszto);
         // friss
+        //új friss
     }
 }
