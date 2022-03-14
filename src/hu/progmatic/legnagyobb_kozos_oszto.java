@@ -39,11 +39,5 @@ public class legnagyobb_kozos_oszto {
 
         System.out.println("A legnagyobb közös osztó: " + kozos);
 
-        int [] szamok = {1, 3};
-        String s = String.format(szamok[]);
-
-        for (int i = 0; i)
-        System.out.println(szamok[]);
-
     }
 }
