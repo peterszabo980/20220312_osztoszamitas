@@ -15,7 +15,7 @@ public class legnagyobb_kozos_oszto {
         int db = 0;
         int kozos = 0;
 
-        if (szam1 < szam2) {
+        if (szam1 <= szam2) {
             while (oszto <= szam1) {
                 if (szam1 % oszto == 0 && szam2 % oszto == 0) {
                     db ++;
@@ -26,7 +26,7 @@ public class legnagyobb_kozos_oszto {
             }
         }
 
-        if (szam2 < szam1) {
+        if (szam2 <= szam1) {
             while (oszto <= szam2) {
                 if (szam2 % oszto == 0 && szam1 % oszto == 0) {
                     db ++;
